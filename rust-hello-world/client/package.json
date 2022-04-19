@@ -6,7 +6,6 @@
   },
   "dependencies": {
     "@solana/web3.js": "^1.39.1",
-    "mz": "^2.7.0",
     "yaml": "^2.0.1"
   }
 }
